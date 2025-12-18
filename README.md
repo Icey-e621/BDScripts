@@ -1,0 +1,2 @@
+# BDScripts
+Bettr Discords scripts
